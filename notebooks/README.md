@@ -1,0 +1,1 @@
+Folder notebooks digunakan untuk menyimpan file Jupyter Notebook (.ipynb) 
